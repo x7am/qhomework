@@ -1,0 +1,10 @@
+valid_email = "pochtadada@email.com"
+valid_pass ="pochtadada@email.com"
+not_valid_email = 'werqwer@mail.ru'
+not_valid_password = 'novalidpass'
+pet_id_valid = '088f380a-f848-4443-949f-d49528725796'
+pet_id_valid2 ='855e50b7-45e9-41e3-849a-e89e84e66ada'
+pet_id_valid3 ='b2aaf5ea-16a2-4600-ac9d-18826211fe3b'
+pet_id_novalid = '00001'
+pet_photo_valid ='images/example_img.jpg'
+pet_photo_novalid = 'images/cat.jpeg'
